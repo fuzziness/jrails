@@ -1,8 +1,8 @@
 class JRails
   @@config = {
     :google           => false,
-    :jquery_version   => "1.4.2",
-    :jqueryui_version => "1.8.2",
+    :jquery_version   => "1.4.4",
+    :jqueryui_version => "1.8.9",
     :compressed       => true
   }
 
